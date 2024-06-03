@@ -1,5 +1,6 @@
 # Fumbly Stuff, LLC
 
-Chislic kielbasa shank cow. Pancetta tongue prosciutto meatloaf strip steak kevin. Ground round pork belly fatback, swine tail frankfurter meatloaf pork salami leberkas pancetta. Pork chop beef ball tip fatback pig spare ribs strip steak hamburger shoulder drumstick. Tri-tip kielbasa hamburger kevin. Filet mignon porchetta flank chuck sirloin strip steak.
+This GitHub account contains repositories for [Fumbly Stuff, LLC](http://fumblystuff.com) and [Fumbly Diddle Software](https://fumblydiddle.com).
 
-Ball tip sirloin meatball filet mignon, tongue ham spare ribs short loin strip steak. Tri-tip pork belly fatback, flank cupim corned beef tenderloin buffalo swine short ribs boudin. Kielbasa chislic short ribs, tri-tip ground round swine pork spare ribs cow ham bresaola. Swine tri-tip ribeye pig chuck, burgdoggen fatback. Spare ribs cow beef ribs strip steak. Brisket biltong ham hock spare ribs, pork belly tongue jowl boudin leberkas.
+Fumbly Stuff makes hardware products for electronics hobbyists.
+Fumbly Diddle Software makes software applications for a variety of devices and operating systems.
